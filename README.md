@@ -6,6 +6,8 @@ Created with <3 for front-end developers who need a quick back-end for prototypi
 
 For a live running version, see [JSONPlaceholder](http://jsonplaceholder.typicode.com).
 
+##LM Edited
+
 ## Example
 
 Create a `db.json` file
